@@ -20,5 +20,4 @@ This does the following:
 Note:
 - You need to add the join ..otherwise you get a map with commas
 
-
 */
